@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "meuvirtualenv\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true
+}

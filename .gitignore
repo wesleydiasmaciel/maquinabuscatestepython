@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+meuvirtualenv
+meuvirtualenv/maquinabusca/db.sqlite3
+/static
+.DS_Store
